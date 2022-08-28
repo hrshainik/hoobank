@@ -42,9 +42,9 @@ The Next Generation Payment Method.
 
 ### Built With
 
-* [HTML5](https://www.w3schools.com/html/)
-* [CSS3](https://www.w3schools.com/css/)
-* [Vanilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [React](https://reactjs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Framer Motion](https://www.framer.com/motion/)
 * [Figma](https://figma.com)
 
 <p align="right"><a href="#top">⇧Back To Top</a></p>
